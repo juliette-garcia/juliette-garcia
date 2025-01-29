@@ -6,9 +6,8 @@ juliette.garcia@yale.edu
 
 check out my work: [juliettegarcia.com](juliettegarcia.com)
 
-![](https://raw.githubusercontent.com/juliette-garcia/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **juliette-garcia/juliette-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
