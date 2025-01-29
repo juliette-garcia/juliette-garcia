@@ -1,8 +1,10 @@
-# Hi! Im Juliette
+# Hey! I'm Juliette 
 
-juliette.garcia@yale.edu
+📈 Majoring in applied math at Yale University  
+🎵 Guitarist in a latin band  
+👩🏽‍💻 Always building something :)  
 
-[juliettegarcia.com](juliettegarcia.com)
+[LinkedIn](https://www.linkedin.com/in/juliette--garcia/) | [Website](juliettegarcia.com) | [Email](juliette.garcia@yale.edu)  
 
 ![](https://github.com/juliette-garcia/readme-stats/blob/master/generated/languages.svg)
 ![](https://github.com/juliette-garcia/readme-stats/blob/master/generated/overview.svg)
