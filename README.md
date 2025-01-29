@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi! Im Juliette Garcia
+
+juliette.garcia@yale.edu
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliette-garcia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **juliette-garcia/juliette-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
