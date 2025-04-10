@@ -1,7 +1,6 @@
 # Hey! I'm Juliette 
 
 📈 Majoring in applied math at Yale University  
-🎵 Guitarist in a latin band  
 👩🏽‍💻 Always building something :)  
 
 [LinkedIn](https://www.linkedin.com/in/juliette--garcia/) | [Website](https://juliettegarcia.com/) | juliette.garcia@yale.edu 
