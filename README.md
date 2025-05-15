@@ -5,8 +5,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/juliette--garcia/) | [Website](https://juliettegarcia.com/) | juliette.garcia@yale.edu 
 
-![](https://github.com/juliette-garcia/readme-stats/blob/master/generated/languages.svg)
-![](https://github.com/juliette-garcia/readme-stats/blob/master/generated/overview.svg)
 
 <!--
 **juliette-garcia/juliette-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
