@@ -1,4 +1,5 @@
 📈 majoring in applied math at yale
+
 👩🏽‍💻 always building something :)  
 
 [LinkedIn](https://www.linkedin.com/in/juliette--garcia/) | [Website](https://juliettegarcia.com/) | juliette.garcia@yale.edu 
