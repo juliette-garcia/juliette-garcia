@@ -1,7 +1,5 @@
-# Hey! I'm Juliette 
-
-📈 Majoring in applied math at Yale University  
-👩🏽‍💻 Always building something :)  
+📈 majoring in applied math at yale
+👩🏽‍💻 always building something :)  
 
 [LinkedIn](https://www.linkedin.com/in/juliette--garcia/) | [Website](https://juliettegarcia.com/) | juliette.garcia@yale.edu 
 
